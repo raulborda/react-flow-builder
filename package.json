@@ -1,6 +1,6 @@
 {
-  "name": "react-flow-builder",
-  "version": "1.5.2",
+  "name": "@raulborda/react-flow-builder",
+  "version": "1.5.3",
   "keywords": [
     "flow",
     "builder",
@@ -23,11 +23,11 @@
   "module": "dist/index.esm.js",
   "typings": "dist/index.d.ts",
   "bugs": {
-    "url": "https://github.com/bytedance/flow-builder/issues"
+    "url": "https://github.com/raulborda/react-flow-builder/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bytedance/flow-builder"
+    "url": "https://github.com/raulborda/react-flow-builder"
   },
   "gitHooks": {
     "pre-commit": "lint-staged"
